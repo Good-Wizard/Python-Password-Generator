@@ -1,6 +1,6 @@
 # Python Password Generator
 
-Welcome to the Python Password Generator! This is a terminal-based application that generates secure, random passwords based on user preferences[^1^][1].
+Welcome to the Python Password Generator! This is a terminal-based application that generates secure, random passwords based on user preferences
 
 ## Features
 
@@ -20,7 +20,7 @@ Welcome to the Python Password Generator! This is a terminal-based application t
 
 ## License
 
-This project is licensed under the GPL-3.0 License[^1^][1].
+This project is licensed under the GPL-3.0 License
 
 ## Contributing
 
@@ -29,7 +29,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 If you have any questions, issues, or suggestions, please open an issue on this GitHub repository.
-
-## Acknowledgements
-
-Thank you to all contributors and users of this project. We hope it helps you create secure passwords!
